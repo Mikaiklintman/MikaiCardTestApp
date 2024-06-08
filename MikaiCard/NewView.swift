@@ -24,6 +24,7 @@ struct NewView: View {
                     Text("Rubrik")
                         .font(.largeTitle)
                     Text("UnderRubrik")
+                    Text("Mer text for GitHub")
                 }
                 
                 Spacer()
