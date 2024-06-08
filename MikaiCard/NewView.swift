@@ -25,6 +25,7 @@ struct NewView: View {
                         .font(.largeTitle)
                     Text("UnderRubrik")
                     Text("Mer text for GitHub")
+                    Text("More text but only to dev branch")
                 }
                 
                 Spacer()
